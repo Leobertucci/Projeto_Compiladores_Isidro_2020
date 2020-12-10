@@ -1,0 +1,19 @@
+programa
+
+  numero a, b,c;
+  texto  t1;
+    a=5;
+    c=7;
+  leia(a);
+  leia(b);
+
+  a = b-1;
+
+  se ( a > b ) {
+     escreva (a);
+  }
+  senao {
+     escreva (b);
+  }
+
+fimprog;
